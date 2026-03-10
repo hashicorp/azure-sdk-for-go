@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # This script fragment is used across our repos to set a variable "SetDevVersion" which
 # is used when this pipeline is going to be generating and publishing daily dev builds.
 parameters:

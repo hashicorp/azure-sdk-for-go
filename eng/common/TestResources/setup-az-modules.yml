@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # Cloud Configuration will be splat into parameters of `Add-AzEnvironment`. It
 # should be JSON in the form (not all fields are required):
 # {

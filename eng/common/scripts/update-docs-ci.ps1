@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 #Requires -Version 6.0
 # This script is intended to  update docs.ms CI configuration (currently supports Java, Python, C#, JS)
 # as part of the azure-sdk release. For details on calling, check `archtype-<language>-release` in each azure-sdk

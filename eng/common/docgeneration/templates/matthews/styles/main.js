@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2021
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 // Use container fluid
 var containers = $(".container");
 containers.removeClass("container");

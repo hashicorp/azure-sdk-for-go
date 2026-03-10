@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # Generates an index page for cataloging different versions of the Docs
 [CmdletBinding()]
 Param (

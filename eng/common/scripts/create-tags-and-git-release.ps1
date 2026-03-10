@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # ASSUMPTIONS
 # * that `npm` cli is present for querying available npm packages
 # * that an environment variable $env:GH_TOKEN is populated with the appropriate PAT to allow pushing of github releases

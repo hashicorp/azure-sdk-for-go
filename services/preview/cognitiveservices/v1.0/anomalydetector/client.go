@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2014, 2021
+// SPDX-License-Identifier: Apache-2.0
+
 // Package anomalydetector implements the Azure ARM Anomalydetector service API version 1.0.
 //
 // The Anomaly Detector API detects anomalies automatically in time series data. It supports two kinds of mode, one is

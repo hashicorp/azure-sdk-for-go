@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # Copied from https://github.com/microsoft/azure-pipelines-tasks/blob/a1502bbe67561f5bec8402f32c997406f798a019/Tasks/AzurePowerShellV4/Utility.ps1
 
 function Get-SavedModulePath {

@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 GITBRANCH=`git rev-parse --abbrev-ref HEAD`
 #We intend to only run gas on release branches.
 if [ "master" != $GITBRANCH ]; then

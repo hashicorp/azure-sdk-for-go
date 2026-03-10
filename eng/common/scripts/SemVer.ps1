@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 <#
 .DESCRIPTION
 Parses a semver version string into its components and supports operations around it that we use for versioning our packages.

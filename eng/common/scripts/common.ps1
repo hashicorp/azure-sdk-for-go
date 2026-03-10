@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 $RepoRoot = Resolve-Path "${PSScriptRoot}..\..\..\.."
 $EngDir = Join-Path $RepoRoot "eng"
 $EngCommonDir = Join-Path $EngDir "common"
