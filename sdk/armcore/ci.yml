@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # NOTE: Please refer to https://aka.ms/azsdk/engsys/ci-yaml before editing this file.
 trigger:
   paths:

@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # Expects azuresdk-github-pat is set to the PAT for azure-sdk
 # Expects the buildtools to be cloned
 

@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # Assumes steps in deploy-test-resources.yml was run previously. Requires
 # environment variable: AZURE_RESOURCEGROUP_NAME and Az PowerShell module
 

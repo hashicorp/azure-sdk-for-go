@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 . (Join-Path $PSScriptRoot common.ps1)
 Install-Module -Name powershell-yaml -RequiredVersion 0.4.1 -Force -Scope CurrentUser
 $ymlfiles = Get-ChildItem $RepoRoot -recurse | Where-Object {$_ -like '*.yml'}

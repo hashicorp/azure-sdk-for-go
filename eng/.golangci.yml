@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 #reference https://github.com/golangci/golangci-lint#config-file for more options
 run:
   # default is true. Enables skipping of directories:

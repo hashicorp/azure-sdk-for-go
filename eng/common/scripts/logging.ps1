@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 if (-not $isDevOpsRun)
 {
   $isDevOpsRun = ($null -ne $env:SYSTEM_TEAMPROJECTID)

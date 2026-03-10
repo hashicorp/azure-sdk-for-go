@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 param (
   $TargetDirectory, # should be in relative form from root of repo. EG: sdk/servicebus
   $RootDirectory, # ideally $(Build.SourcesDirectory)

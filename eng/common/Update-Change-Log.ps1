@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # Note: This script will add or replace version title in change log
 
 # Parameter description

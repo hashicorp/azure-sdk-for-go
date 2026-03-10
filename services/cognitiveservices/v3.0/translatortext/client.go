@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2014, 2021
+// SPDX-License-Identifier: Apache-2.0
+
 // Package translatortext implements the Azure ARM Translatortext service API version 3.0.
 //
 // # Introduction

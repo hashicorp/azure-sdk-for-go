@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 # Intended to be used at the beginning of CI process to easily encapsulate the work of creating a new Go workspace.
 
 # On completion. Returns two variables in a PSObject. 

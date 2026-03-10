@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2014, 2021
+# SPDX-License-Identifier: Apache-2.0
+
 steps:
   # steps after this one (and in the same job) will have access to the variable
   # GO_WORKSPACE_PATH
